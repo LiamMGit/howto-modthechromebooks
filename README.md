@@ -28,3 +28,26 @@ First, go to Settings > Network > Wifi > Network, and click on "Custom Name Serv
 Set every box there to the following ip:
 `158.101.114.159` (Hosted by The Greatest Giant#0110)
 Navigate to https://chrome.google.com/webstorex and click on that bookmark. Flip the switches on the extentions you want to disable.
+
+# Downgrading
+Downgrading can be used for several exploits, to get to a version that does not have patches for certain exploits, sutch as LTBEEF. This is a built in feature of ChromeOS.
+
+
+# Requirements (DOWNGRADING)
+
+A USB thumb drive with at least 4gb of storage, some board have small or bigger images, so have a beef usb, I recommend 16gb
+A personal computer with access to downloading extentions
+A brain
+Setup
+
+Navigate to chrome://version on the chromebook you with to downgrade and check for your board under "Platform" (ex I have a c3100 and it's board is stable-channel octopus)
+ 2. Navigate to https://chrome100.dev/ , press `ctrl+f` and type in your board 3. Find and download the chrome version you want to your personal computer
+# Instlation (DOWNGRADING)
+
+Install Chromebook Recovery Utility onto your personal computer (found at https://chrome.google.com/webstore/detail/chromebook-recovery-     utili/pocpnlppkickgojjlmhdmidojbmbodfm?hl=en)
+Open the extention, and click on the settings button in to top right hand corner, click "use local image"
+Select the recovery image you downloaded from chrome100
+Plug in the USB you wish to use, and follow the prompts on the screen
+On your chromebook, press esc+reload+power and follow the prompts
+On the checking for updates screen, press ctrl+shift+e to skip the "checking for updates" screen
+Profit
