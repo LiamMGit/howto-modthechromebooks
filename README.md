@@ -44,7 +44,8 @@ Navigate to chrome://version on the chromebook you with to downgrade and check f
  2. Navigate to https://chrome100.dev/ , press `ctrl+f` and type in your board 3. Find and download the chrome version you want to your personal computer
 # Instlation (DOWNGRADING)
 
-Install Chromebook Recovery Utility onto your personal computer (found at https://chrome.google.com/webstore/detail/chromebook-recovery-     utili/pocpnlppkickgojjlmhdmidojbmbodfm?hl=en)
+Install Chromebook Recovery Utility onto your personal computer 
+(found at https://chrome.google.com/webstore/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm?hl=en)
 Open the extention, and click on the settings button in to top right hand corner, click "use local image"
 Select the recovery image you downloaded from chrome100
 Plug in the USB you wish to use, and follow the prompts on the screen
